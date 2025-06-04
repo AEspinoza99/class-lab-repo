@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Ale Espinoza  
+- Certification: META FRONT END  
 
 ## Instructions
 Please replace the placeholders with your details:
